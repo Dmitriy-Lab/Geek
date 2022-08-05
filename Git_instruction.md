@@ -43,6 +43,6 @@
 
 ***
 
->**[Ссылка на ГитХаб с этим проектом](http://example.com/https://github.com/Dmitriy-Lab/Geek "Dmitriy-Lab")**
+>**[Ссылка на ГитХаб с этим проектом](https://github.com/Dmitriy-Lab/Geek "Dmitriy-Lab")**
 
 ***
