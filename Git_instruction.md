@@ -41,3 +41,8 @@
 
 `git checkout (номер коммита)` - перемещает нас в выбранную версию файла
 
+***
+
+>**[Ссылка на ГитХаб с этим проектом](http://example.com/https://github.com/Dmitriy-Lab/Geek "Dmitriy-Lab")**
+
+***
